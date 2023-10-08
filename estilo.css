@@ -1,0 +1,43 @@
+*{
+    margin: auto;
+    width: 100%;
+}
+.vermelho {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red;    
+}
+
+.azul {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(28, 169, 235);    
+}
+
+.verde {    
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(28, 235, 73);    
+}
+
+.amarelo {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(226, 241, 17);
+}
+
+.borda-realcada {
+    display: inline-block;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red; 
+}
